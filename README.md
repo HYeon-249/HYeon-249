@@ -2,7 +2,7 @@
 
 &nbsp;
 
-### ✅ 저는 이런 프로그램을 다룰 수 있습니다.
+### ✔️ 저는 이런 프로그램을 다룰 수 있습니다.
 
 &emsp;&emsp;아래있는 작업을 할 수 있습니다.
 
@@ -18,12 +18,22 @@
     - 제품 디자인
 
 
-### ✅ 저는 약간의 웹 개발을 할 수 있습니다.
+### 👌 저는 약간의 웹 개발을 할 수 있습니다.
 
 &emsp;&emsp;아래있는 작업을 할 수 있습니다.
 
 - HTML&CSS
     - 웹 프로토타입 제작
+
+&nbsp;
+
+### 👍 저는 아래의 자격증을 가지고 있습니다.
+
+- [Adobe] ACA Photoshop
+- [Adobe] ACA Illustlator
+- [KPC] ITQ PowerPoint
+- [KPC] ITQ Excel
+- [KPC] ITQ 한글
 
 &nbsp;
 
