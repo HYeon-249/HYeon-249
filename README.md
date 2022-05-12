@@ -28,12 +28,15 @@
 &nbsp;
 
 ### 👍 저는 아래의 자격증을 가지고 있습니다.
+&emsp;&emsp;각 PDF 파일로 증명서가 업로드 되어있습니다.
 
 - [Adobe] ACA Photoshop
 - [Adobe] ACA Illustlator
+    - [ACA 자격증 증명서](https://github.com/HYeon-249/HYeon-249/blob/main/Adobe-ACA.pdf)
 - [KPC] ITQ PowerPoint
 - [KPC] ITQ Excel
 - [KPC] ITQ 한글
+    - [ITQ 자격증 증명서](https://github.com/HYeon-249/HYeon-249/blob/main/KPC-ITQ.pdf)
 
 &nbsp;
 
