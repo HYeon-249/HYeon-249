@@ -47,4 +47,4 @@
 
 ### 💬 문의는 아래의 메일과 SNS를 참고해 주시면 감사하겠습니다.
 - 이메일 : [hyangyeon.design@gmail.com](mailto:hyangyeon.design@gmail.com)
-- 트위터 : [@H\_Yeon\_249\](https://twitter.com/H_Yeon_249)
+- 트위터 : [@H\_Yeon\_249](https://twitter.com/H_Yeon_249)
