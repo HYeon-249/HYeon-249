@@ -40,6 +40,7 @@
 
 ### 🏫 아래의 교육기관을 지나왔습니다.
 - [미림여자정보과학고등학교](https://www.e-mirim.hs.kr) 2020.03.02 – 2023.02.02 (졸업)
+- [광운대학교정보과학교육원](https://iit.kw.ac.kr/servlet/controller.home.main.MainServlet?p_process=main&OV_REFFER=https://www.google.com/) 2025.03.05 - ing (재학)
 
 &nbsp;
 
